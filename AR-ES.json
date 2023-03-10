@@ -1,0 +1,23 @@
+{ 
+    "modalClose" : "Cerrar",
+    "edit" : {
+        "title" : "Editar",
+        "button" : "Editar"
+    },
+    "add" : {
+        "title" : "Agregar Nuevo",
+        "button" : "Agregar"
+    },
+    "delete" : {
+        "title" : "Borrar Seleccionado",
+        "button" : "Borrar"
+    },
+    "success" : "Exitoso!",
+    "error" : {
+        "message" : "A Ocurrido un error.",
+        "label" : "Error!",
+        "responseCode" : "Código de Respuesta: ",
+        "required" : "Campo Obliglatorio",
+        "unique" : "Valor duplicado"
+    }
+}
